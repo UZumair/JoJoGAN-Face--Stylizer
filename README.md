@@ -139,7 +139,7 @@ PRs welcome!
 
 ## 👨‍💻 Maintainer
 
-**Ghafoor Khan**  
+**UMAIR ZAHID**  
 **Gen AI Team Beta**
 
 
