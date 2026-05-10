@@ -1,11 +1,9 @@
-torch>=1.9.0
-numpy
+torch>=2.0.0
+numpy==1.26.4
 Pillow
 gdown
 gradio
-opencv-python
+opencv-python-headless
 scikit-learn==1.3.2
-dlib
-lpips
-tqdm
-wandb
+setuptools
+streamlit
